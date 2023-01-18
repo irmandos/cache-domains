@@ -118,6 +118,11 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
+			"name": "msoffice",
+			"description": "CDN for Microsoft Office updates",
+			"domain_files": ["msoffice.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]

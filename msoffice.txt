@@ -1,0 +1,4 @@
+# lancache-Microsoft Office, Microsoft Office 365, Microsoft 365
+# By https://dannyda.com/2020/06/22/how-to-use-lancache-with-portainer-openmediavault-5-omv5-and-pfsense-unbound-how-to-install-lancache-with-portainer-how-to-use-lancache-with-existing-dns-server/ 
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
