@@ -126,6 +126,16 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "ubuntu",
+			"description": "Ubuntu APT repos",
+			"domain_files": ["ubuntu.txt"]
+		},
+		{
+			"name": "ubuntu_apps",
+			"description": "Ubuntu APPS APT repos",
+			"domain_files": ["ubuntu_apps.txt"]
 		}
 	]
 }
