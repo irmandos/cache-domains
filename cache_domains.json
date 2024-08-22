@@ -130,11 +130,13 @@
 		{
 			"name": "ubuntu",
 			"description": "Ubuntu APT repos",
+			"mixed_content": true,
 			"domain_files": ["ubuntu.txt"]
 		},
 		{
 			"name": "ubuntu_apps",
 			"description": "Ubuntu APPS APT repos",
+			"mixed_content": true,
 			"domain_files": ["ubuntu_apps.txt"]
 		}
 	]
