@@ -3,3 +3,9 @@ archive.ubuntu.com
 archive.canonical.com
 extras.ubuntu.com
 security.ubuntu.com
+mirror.ac.za
+*.mirror.ac.za
+*.mirror.rain.co.za
+mirror.rain.co.za
+archive.linux.duke.edu
+archive.mirror.blix.com
