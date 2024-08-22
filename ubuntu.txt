@@ -1,0 +1,5 @@
+archive.ubuntu.com
+*.archive.ubuntu.com
+archive.canonical.com
+extras.ubuntu.com
+security.ubuntu.com
